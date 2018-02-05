@@ -4,4 +4,4 @@ git has a multable index called stage.
 git has a multable index called stage.
 git tracks changes of files.
 creating a branch is fast.
-creating a new branch is fast & simple.
+creating a new branch is fast and simple.
