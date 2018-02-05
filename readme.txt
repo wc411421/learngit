@@ -7,3 +7,4 @@ creating a branch is fast.
 creating a new branch is fast and simple.
 merge branch without Fast Forward.
 add coding utf-8.
+local dev to remote dev.
